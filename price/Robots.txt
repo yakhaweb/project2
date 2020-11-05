@@ -1,0 +1,4 @@
+
+User-agent: *
+Disallow: 
+Sitemap: https://price-rozetka.com.ua/sitemap.xml
